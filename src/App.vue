@@ -1,18 +1,16 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Chat from './components/Chat.vue'
+import Weather from './components/Weather.vue'
 </script>
 
 <template>
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 2rem; padding: 2rem;">
+    <Chat />
+    <Weather />
   </div>
-  <HelloWorld msg="Vite + Vue" />
 </template>
+
+
 
 <style scoped>
 .logo {
