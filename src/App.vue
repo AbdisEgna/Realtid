@@ -1,16 +1,10 @@
-<script setup>
-import Chat from './components/Chat.vue'
-import Weather from './components/Weather.vue'
-</script>
-
 <template>
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 2rem; padding: 2rem;">
-    <Chat />
-    <Weather />
-  </div>
+  <router-view />
 </template>
 
-
+<script setup>
+// Du behöver INTE importera Chat eller Weather här
+</script>
 
 <style scoped>
 .logo {
