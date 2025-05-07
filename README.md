@@ -14,8 +14,8 @@ Eftersom att växthusmiljön är en viktig aspekt så har jag valt att implement
 <img width="955" alt="Kanban" src="https://github.com/user-attachments/assets/1fe8abfb-27cb-4c6f-a717-844d7917fdd7">
 
 # Wireframe 
-<img width="375" alt="väder" src="https://github.com/user-attachments/assets/dbc3650b-64d5-4e96-962c-7e5ad518e1c0">
-<img width="377" alt="chatt" src="https://github.com/user-attachments/assets/89652110-b9a3-40c7-b05b-d77b1daddae9">
+![image](https://github.com/user-attachments/assets/f43789fc-5c0c-4e55-b1e8-03088074f947)
+![image](https://github.com/user-attachments/assets/7eb73f4f-a161-495c-853a-957f381d13c9)
 
 # Use Case 
 <img width="238" alt="Use Case" src="https://github.com/user-attachments/assets/247419bd-5b0e-48b4-b3c4-c4230619215f">
