@@ -1,7 +1,7 @@
 <template>
     <div class="chat-wrapper">
       <header class="chat-header">
-        <button class="tab-button">Chatt</button>
+        <h2 >Välkommen till chatten</h2>
       </header>
   
       <main class="chat-main">
